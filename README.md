@@ -23,7 +23,7 @@ Cypher-Cam is a Python GUI application designed for surveillance using a webcam 
 - **Python Packages**: OpenCV, Skimage, Numpy, Tkinter, simpleaudio
 
 ## Screenshots
-![Screenshot]()
+![Screenshot](https://github.com/drahulsingh/Cypher-Cam/assets/76787888/7f16c4ff-4081-412c-9f36-9cbcdc09cc11)
 
 ## Real-world Applications
 
