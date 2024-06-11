@@ -61,6 +61,9 @@ This project was made possible thanks to the following resources and contributio
 - OpenCV for image processing and motion detection.
 - NumPy for numerical operations.
 - Scikit-Image for advanced image processing techniques.
+- Tkinter for the graphical user interface.
+- Haar Cascade for face detection.
+- LBPH (Local Binary Patterns Histograms) algorithm for face recognition.
 - SimpleAudio for audio handling.
 - The contributors and maintainers of the Python libraries used in this project.
 - Special thanks to the open-source community for providing tools and frameworks that facilitated the development of Cypher-Cam.
